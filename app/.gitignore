@@ -1,1 +1,7 @@
 /build
+/libs
+# Android Studio / IntelliJ IDEA
+*.iws
+*.iml
+/.idea
+/.gradle

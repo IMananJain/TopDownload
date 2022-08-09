@@ -5,9 +5,9 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/itunes"
         android:label="Top Download"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/itunes"
         android:supportsRtl="true"
         android:theme="@style/Theme.Top10DownloadApp">
         <activity
